@@ -18,6 +18,8 @@ Once **Booker** finds new books in Spain for a given **subscription** the user i
     - **DATASCALE_DATABASE**.
 - Finally you can run **Booker** with `make run`
 
+_Please note that since the API used is not a free service, this is a trimmed down version of the app without the actual API functionality._
+
 ## Documentation
 
 The endpoints documentation is located at [http://booker.pmareke.com/docs](http://booker.pmareke.com/docs)
